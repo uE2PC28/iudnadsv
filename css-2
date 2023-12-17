@@ -1,0 +1,378 @@
+﻿/* khmer */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2RY5aECkp34vEBSPFOmJxwlEbbdY1VU_nxzRim76N2CXY1Q5VVhcT14A-2.woff2) format('woff2');
+  unicode-range: U+1780-17FF, U+19E0-19FF, U+200C, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2RY5aECkp34vEBSPFOmJxwlEbbdY1VU_nxzRim76N2CXM1Q5VVhcT14A-2.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2RY5aECkp34vEBSPFOmJxwlEbbdY1VU_nxzRim76N2CX01Q5VVhcQ-2.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* khmer */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2RY5aECkp34vEBSPFOmJxwlEbbdY1VU_nxzRim7yN3CXY1Q5VVhcT14A-2.woff2) format('woff2');
+  unicode-range: U+1780-17FF, U+19E0-19FF, U+200C, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2RY5aECkp34vEBSPFOmJxwlEbbdY1VU_nxzRim7yN3CXM1Q5VVhcT14A-2.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2RY5aECkp34vEBSPFOmJxwlEbbdY1VU_nxzRim7yN3CX01Q5VVhcQ-2.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* khmer */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2RY5aECkp34vEBSPFOmJxwlEbbdY1VU_nxzRim7_13CXY1Q5VVhcT14A-2.woff2) format('woff2');
+  unicode-range: U+1780-17FF, U+19E0-19FF, U+200C, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2RY5aECkp34vEBSPFOmJxwlEbbdY1VU_nxzRim7_13CXM1Q5VVhcT14A-2.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2RY5aECkp34vEBSPFOmJxwlEbbdY1VU_nxzRim7_13CX01Q5VVhcQ-2.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* khmer */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2RY5aECkp34vEBSPFOmJxwlEbbdY1VU_nxzRim76N3CXY1Q5VVhcT14A-2.woff2) format('woff2');
+  unicode-range: U+1780-17FF, U+19E0-19FF, U+200C, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2RY5aECkp34vEBSPFOmJxwlEbbdY1VU_nxzRim76N3CXM1Q5VVhcT14A-2.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2RY5aECkp34vEBSPFOmJxwlEbbdY1VU_nxzRim76N3CX01Q5VVhcQ-2.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* khmer */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2RY5aECkp34vEBSPFOmJxwlEbbdY1VU_nxzRim75F3CXY1Q5VVhcT14A-2.woff2) format('woff2');
+  unicode-range: U+1780-17FF, U+19E0-19FF, U+200C, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2RY5aECkp34vEBSPFOmJxwlEbbdY1VU_nxzRim75F3CXM1Q5VVhcT14A-2.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2RY5aECkp34vEBSPFOmJxwlEbbdY1VU_nxzRim75F3CX01Q5VVhcQ-2.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* khmer */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2RY5aECkp34vEBSPFOmJxwlEbbdY1VU_nxzRim731wCXY1Q5VVhcT14A-2.woff2) format('woff2');
+  unicode-range: U+1780-17FF, U+19E0-19FF, U+200C, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2RY5aECkp34vEBSPFOmJxwlEbbdY1VU_nxzRim731wCXM1Q5VVhcT14A-2.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2RY5aECkp34vEBSPFOmJxwlEbbdY1VU_nxzRim731wCX01Q5VVhcQ-2.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* khmer */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2RY5aECkp34vEBSPFOmJxwlEbbdY1VU_nxzRim70RwCXY1Q5VVhcT14A-2.woff2) format('woff2');
+  unicode-range: U+1780-17FF, U+19E0-19FF, U+200C, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2RY5aECkp34vEBSPFOmJxwlEbbdY1VU_nxzRim70RwCXM1Q5VVhcT14A-2.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2RY5aECkp34vEBSPFOmJxwlEbbdY1VU_nxzRim70RwCX01Q5VVhcQ-2.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* khmer */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2TY5aECkp34vEBSPFOmJxwvk_pilU8OGNfyg1urXs4OX8_RLdXtcU-2.woff2) format('woff2');
+  unicode-range: U+1780-17FF, U+19E0-19FF, U+200C, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2TY5aECkp34vEBSPFOmJxwvk_pilU8OGNfyg1urXs9OX8_RLdXtcU-2.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2TY5aECkp34vEBSPFOmJxwvk_pilU8OGNfyg1urXszOX8_RLdX-2.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* khmer */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2TY5aECkp34vEBSPFOmJxwvk_pilU8OGNfyg3urHs4OX8_RLdXtcU-2.woff2) format('woff2');
+  unicode-range: U+1780-17FF, U+19E0-19FF, U+200C, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2TY5aECkp34vEBSPFOmJxwvk_pilU8OGNfyg3urHs9OX8_RLdXtcU-2.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2TY5aECkp34vEBSPFOmJxwvk_pilU8OGNfyg3urHszOX8_RLdX-2.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* khmer */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2TY5aECkp34vEBSPFOmJxwvk_pilU8OGNfyg0wrHs4OX8_RLdXtcU-2.woff2) format('woff2');
+  unicode-range: U+1780-17FF, U+19E0-19FF, U+200C, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2TY5aECkp34vEBSPFOmJxwvk_pilU8OGNfyg0wrHs9OX8_RLdXtcU-2.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2TY5aECkp34vEBSPFOmJxwvk_pilU8OGNfyg0wrHszOX8_RLdX-2.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* khmer */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2TY5aECkp34vEBSPFOmJxwvk_pilU8OGNfyg1urHs4OX8_RLdXtcU-2.woff2) format('woff2');
+  unicode-range: U+1780-17FF, U+19E0-19FF, U+200C, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2TY5aECkp34vEBSPFOmJxwvk_pilU8OGNfyg1urHs9OX8_RLdXtcU-2.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2TY5aECkp34vEBSPFOmJxwvk_pilU8OGNfyg1urHszOX8_RLdX-2.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* khmer */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2TY5aECkp34vEBSPFOmJxwvk_pilU8OGNfyg1crHs4OX8_RLdXtcU-2.woff2) format('woff2');
+  unicode-range: U+1780-17FF, U+19E0-19FF, U+200C, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2TY5aECkp34vEBSPFOmJxwvk_pilU8OGNfyg1crHs9OX8_RLdXtcU-2.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2TY5aECkp34vEBSPFOmJxwvk_pilU8OGNfyg1crHszOX8_RLdX-2.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* khmer */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2TY5aECkp34vEBSPFOmJxwvk_pilU8OGNfyg2wq3s4OX8_RLdXtcU-2.woff2) format('woff2');
+  unicode-range: U+1780-17FF, U+19E0-19FF, U+200C, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2TY5aECkp34vEBSPFOmJxwvk_pilU8OGNfyg2wq3s9OX8_RLdXtcU-2.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2TY5aECkp34vEBSPFOmJxwvk_pilU8OGNfyg2wq3szOX8_RLdX-2.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* khmer */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2TY5aECkp34vEBSPFOmJxwvk_pilU8OGNfyg2Jq3s4OX8_RLdXtcU-2.woff2) format('woff2');
+  unicode-range: U+1780-17FF, U+19E0-19FF, U+200C, U+25CC;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2TY5aECkp34vEBSPFOmJxwvk_pilU8OGNfyg2Jq3s9OX8_RLdXtcU-2.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Kantumruy Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/kantumruypro/v8/1q2TY5aECkp34vEBSPFOmJxwvk_pilU8OGNfyg2Jq3szOX8_RLdX-2.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
