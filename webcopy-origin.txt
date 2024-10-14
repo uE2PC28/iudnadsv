@@ -1,0 +1,131 @@
+Uri: https://app.pepper.com.br/js/oneclick.js
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\js\oneclick-1.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:400,700|Roboto:400|Montserrat:600&display=swap
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w0aXp-obK4ALg.woff2
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w0aXp-obK4ALg-2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w2aXp-obK4ALg.woff2
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w2aXp-obK4ALg-2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aXp-obK4ALg.woff2
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w3aXp-obK4ALg-2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aXp-obK4.woff2
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aXp-obK4-2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w9aXp-obK4ALg.woff2
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w9aXp-obK4ALg-2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\s\poppins\v21\pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw-2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\s\poppins\v21\pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk-2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\s\poppins\v21\pxiEyp8kv8JHgFVrJJfecnFHGPc-2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\s\poppins\v21\pxiEyp8kv8JHgFVrJJnecnFHGPezSQ-2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\s\roboto\v32\KFOmCnqEu92Fr1Mu4mxKKTU1Kg-2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4WxKKTU1Kvnz.woff2
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\s\roboto\v32\KFOmCnqEu92Fr1Mu4WxKKTU1Kvnz-2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu5mxKKTU1Kvnz.woff2
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\s\roboto\v32\KFOmCnqEu92Fr1Mu5mxKKTU1Kvnz-2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu72xKKTU1Kvnz.woff2
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\s\roboto\v32\KFOmCnqEu92Fr1Mu72xKKTU1Kvnz-2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\s\roboto\v32\KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz-2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.woff2
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\s\roboto\v32\KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz-2.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz.woff2
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\s\roboto\v32\KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz-2.woff2
+Content Type: font/woff2
+
+Uri: https://media.atomicatpages.com/u/phj1QyRztJe22wIrAbM4l5wp2qC2/Pictures/btLqJu5467806.jpeg
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\u\phj1QyRztJe22wIrAbM4l5wp2qC2\Pictures\btLqJu5467806-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://media.atomicatpages.com/u/phj1QyRztJe22wIrAbM4l5wp2qC2/Pictures/goHKSJ5467806.jpeg
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\u\phj1QyRztJe22wIrAbM4l5wp2qC2\Pictures\goHKSJ5467806-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://media.atomicatpages.com/u/phj1QyRztJe22wIrAbM4l5wp2qC2/Pictures/haAuJf5467806.jpeg
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\u\phj1QyRztJe22wIrAbM4l5wp2qC2\Pictures\haAuJf5467806-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://pepper.com.br/oneclick.js
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\oneclick-1.js
+Content Type: text/javascript
+
+Uri: https://www.g1-portalnoticias.fun/downselok
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\downselok.html
+Content Type: text/html
+
+Uri: https://www.g1-portalnoticias.fun/downselok/js/uvJMkB8464797.js
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\downselok\js\uvJMkB8464797.js
+Content Type: application/javascript
+
+ Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\js\IDHzwu8197346.js
+Content Type: application/javascript
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\s\roboto\v32\KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.woff2
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\s\roboto\v32\KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz.woff2
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\s\roboto\v32\KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://media.atomicatpages.com/library/Pictures/mhztk/HgPWqN1742067.jpeg
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\library\Pictures\mhztk\HgPWqN1742067.jpeg
+Content Type: image/jpeg
+
+Uri: https://media.atomicatpages.com/u/phj1QyRztJe22wIrAbM4l5wp2qC2/Pictures/urqYbn1223144.png
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\u\phj1QyRztJe22wIrAbM4l5wp2qC2\Pictures\urqYbn1223144.png
+Content Type: image/png
+
+Uri: https://www.facebook.com/tr?id=1258833281747116&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\tr
+Content Type: text/plain
+
+Uri: https://www.g1-portalnoticias.fun/shenbackred/js/YeWdhm7150659.js
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\shenbackred\js\YeWdhm7150659.js
+Content Type: application/javascript
+
+Uri: https://www.g1-portalnoticias.fun/shenbackred?
+File Name: C:\Downloaded Web Sites\www.g1-portalnoticias.fun\shenbackred.html
+Content Type: text/html
+
